@@ -25,3 +25,7 @@ $("#story3").fadeOut(2000);
 $("#button").hide();
 $("#button").delay(26000);
 $("#button").fadeIn(2000);
+
+$("#ending").hide();
+$("#ending").delay(20000);
+$("#ending").fadeIn(2000);

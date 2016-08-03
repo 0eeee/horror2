@@ -14,13 +14,6 @@
  *= require_self
  */
 
-body {
-	z-index: 999;
-  background: url(/assets/bg.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-}
-
 .greeting{
 	position: fixed;
 	left: 150px;
